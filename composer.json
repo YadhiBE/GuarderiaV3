@@ -1,0 +1,17 @@
+{
+    "name": "yadhi/guarderiav3",
+    "description": "proyecto guarderiav3",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Yadhira Escudero",
+            "email": "sempaiiiiiyadhi@gmail.com"
+        }
+    ],
+    "require": {
+        "illuminate/database": "^5.4",
+        "illuminate/events": "^5.4",
+        "slim/slim": "4.*",
+        "slim/psr7": "^1.2"
+    }
+}
